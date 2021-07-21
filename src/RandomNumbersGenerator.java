@@ -4,7 +4,7 @@ public class RandomNumbersGenerator {
 
     //we create a method that takes two variables as parameters
     //amount is do quantity of the numbers and range is the distance between
-    //the number 1 and whatever you choose.
+    //the number 1 and whatever you choose
     static void RandomNumbers (int amount, int range){
 
         // We will generate a six numbers random sequence
